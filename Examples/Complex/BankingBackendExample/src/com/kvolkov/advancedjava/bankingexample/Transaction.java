@@ -1,6 +1,8 @@
-package com.kvolkov.JL3;
+package com.kvolkov.advancedjava.bankingexample;
 
-public final class Transaction {
+import java.io.Serializable;
+
+public final class Transaction implements Serializable {
 
     private static int sUidAutoIncrement = 0;
 
@@ -29,4 +31,12 @@ public final class Transaction {
     }
 
     public int getUID() { return mUID; }
+
+    @Override
+    public String toString() {
+        return "Transaction: FROM = " + mFromUid +
+                " | TO = " + mToUid +
+                " | Amount = " + mAmount +
+                " | mUID=" + mUID;
+    }
 }

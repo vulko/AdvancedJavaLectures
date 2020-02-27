@@ -1,4 +1,6 @@
-package com.kvolkov.JL3;
+package com.kvolkov.advancedjava.bankingexample;
+
+import com.kvolkov.advancedjava.bankingexample.Transaction;
 
 public class Client {
 
