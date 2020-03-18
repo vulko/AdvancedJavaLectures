@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a34cdf0-481e-460f-a300-a519b1124537" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kvolkov/advancedjava/bankingexample/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kvolkov/advancedjava/bankingexample/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kvolkov/JL3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kvolkov/advancedjava/bankingexample/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kvolkov/JL3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kvolkov/JL3/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kvolkov/advancedjava/bankingexample/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kvolkov/JL3/TransactionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kvolkov/advancedjava/bankingexample/TransactionHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +36,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="TestProject" />
@@ -68,15 +60,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -156,22 +139,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="768" height="432" key="XDebugger.FullValuePopup.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1582130410823" />
-    <state x="470" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1582729363304">
+    <state x="470" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1583942826881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582729363304" />
+    <state x="470" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583942826881" />
     <state x="140" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.inPresentationMode" timestamp="1582130146189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="140" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1582130146189" />
-    <state x="209" y="33" key="new project wizard" timestamp="1582126202836">
+    <state x="209" y="33" key="new project wizard" timestamp="1583942906463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-16" y="42" width="1544" height="824" key="new project wizard.inPresentationMode" timestamp="1582126092507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-16" y="42" width="1544" height="824" key="new project wizard.inPresentationMode/0.0.1536.824@0.0.1536.824" timestamp="1582126092507" />
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582126202836" />
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583942906463" />
     <state x="96" y="185" key="run.anything.popup.inPresentationMode" timestamp="1581521390312">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
